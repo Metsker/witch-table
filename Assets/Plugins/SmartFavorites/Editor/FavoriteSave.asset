@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12ec3999bf44b4240a4f4cf72de1622f, type: 3}
+  m_Name: FavoriteSave
+  m_EditorClassIdentifier: 
+  CurrentListIndex: 2
+  FavoriteLists:
+  - Name: Animations
+    Objects:
+    - GlobalObjectId_V1-3-9f9c23cbcad6e7f44ada5473a90dc6e9-11400000-0
+    - GlobalObjectId_V1-3-9ccc73c0194de784fb85e0104ad98fe2-11400000-0
+  - Name: Prefabs
+    Objects:
+    - GlobalObjectId_V1-1-abc00000000011029657979205016263-1030985899-0
+    - GlobalObjectId_V1-1-abc00000000009577592741665352263-1030974311-0
+    - GlobalObjectId_V1-1-abc00000000010876137946415895538-1030977261-0
+    - GlobalObjectId_V1-1-abc00000000009146930993073306791-1030979240-0
+    - GlobalObjectId_V1-1-abc00000000007752899002054413520-1030980433-0
+    - GlobalObjectId_V1-1-abc00000000017403752444523991223-1030975201-0
+    - GlobalObjectId_V1-1-abc00000000013297240178136726284-1030978186-0
+    - GlobalObjectId_V1-1-abc00000000014507248281209664764-1030974336-0
+    - GlobalObjectId_V1-1-abc00000000017166052241702723934-1030980442-0
+  - Name: PostProcessing
+    Objects:
+    - GlobalObjectId_V1-3-f288ae1f4751b564a96ac7587541f7a2-11400000-0
+    - GlobalObjectId_V1-3-4b83569d67af61e458304325a23e5dfd-11400000-0
+  - Name: CoreScene
+    Objects:
+    - GlobalObjectId_V1-2-f818fc9360632b949be5db297cde86ea-476849844-0
+  ListHeight: 55
